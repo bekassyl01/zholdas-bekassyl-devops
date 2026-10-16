@@ -1,0 +1,5 @@
+Name: Bekassyl
+Surname: Zholdas
+Group: SE-2306
+Student ID: 37350
+Course: DevOps
