@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: zholdas-bekassyl-devops
+    container_name: zholdas-bekassyl-container
+    environment:
+      STUDENT_NAME: Bekassyl
+      STUDENT_SURNAME: Zholdas
+      STUDENT_GROUP: SE-2306
+      STUDENT_ID: "37350"
